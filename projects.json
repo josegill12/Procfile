@@ -1,0 +1,14 @@
+[
+    {
+      "name": "Wheres my Tacos",
+      "live": "localhost:3000",
+      "git": "https://github.com/josegill12/Wheres-my-Tacos",
+      "image": ""
+    },
+    {
+      "name": "P2",
+      "live": "https://final-p2.onrender.com",
+      "git": "https://github.com/josegill12/New_project2",
+      "image": "https://media.istockphoto.com/id/1202450616/vector/new-york-city-typography-design-nyc-round-banner-poster-sport-t-shirt-print-design-and.jpg?s=2048x2048&w=is&k=20&c=fuNSsv9uu-UCexyGMxRV2Y3v8YSIxl3HZegaa4PkeAk="
+    }
+  ]
